@@ -1,0 +1,8 @@
+# ninja log v5
+2	114	7338195165617320	qtTest_autogen/timestamp	15532c691845f8aa
+2	114	7338195165617320	qtTest_autogen/mocs_compilation.cpp	15532c691845f8aa
+2	114	7338195165617320	C:/Users/A.Aidus/Documents/GitHub/Tests/qtTest/cmake-build-debug/qtTest_autogen/timestamp	15532c691845f8aa
+2	114	7338195165617320	C:/Users/A.Aidus/Documents/GitHub/Tests/qtTest/cmake-build-debug/qtTest_autogen/mocs_compilation.cpp	15532c691845f8aa
+115	152	7338195166247861	CMakeFiles/qtTest.dir/qtTest_autogen/mocs_compilation.cpp.obj	13c2dcc979959b9f
+117	1823	7338195182952013	CMakeFiles/qtTest.dir/main.cpp.obj	a057286ceeb1c469
+1826	2005	7338195183862801	qtTest.exe	257ff6fc4e739209
