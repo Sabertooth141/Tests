@@ -1,0 +1,3 @@
+C:\Users\A.Aidus\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\qtTest.dir/objects.a
+C:\Users\A.Aidus\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\qtTest.dir/objects.a @CMakeFiles\qtTest.dir\objects1.rsp
+C:\Users\A.Aidus\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\qtTest.dir/objects.a -Wl,--no-whole-archive -o qtTest.exe -Wl,--out-implib,libqtTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\qtTest.dir\linkLibs.rsp
